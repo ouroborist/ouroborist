@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# ∅ Circuli Perditi
+Sic Semper Moronis
 <!--
 **ouroborist/ouroborist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
